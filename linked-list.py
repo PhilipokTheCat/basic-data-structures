@@ -55,5 +55,6 @@ class linkedList:
 newList = linkedList("Pisyunin")
 newList.addNode("Pidor")
 newList.addNode("Azaza")
+newList.addNode("Paskhalochka :)")
 print(newList)
     
